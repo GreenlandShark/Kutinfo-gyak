@@ -1,0 +1,2 @@
+# Kutinfo-gyak
+Beadandó
